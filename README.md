@@ -189,22 +189,16 @@ retail-sales-customer-analytics/
 
 ## 🚀 How to Use
 
-### Option 1 — Interactive Power BI Dashboard
+### Power BI Dashboard
 
-Open the live Power BI dashboard:
-
-**[🔗 View Interactive Power BI Dashboard](#)**
-
-> The live dashboard link will be added after publishing the report.
-
-### Option 2 — Power BI Desktop
+The complete interactive dashboard is provided as a `.pbix` file and can be opened using **Microsoft Power BI Desktop**.
 
 1. Clone or download this repository.
 2. Open `Retail_Sales_Customer_Analytics.pbix` using Power BI Desktop.
 3. Navigate between the **Sales Overview** and **Customer Analytics** pages.
-4. Interact with the available visuals and filters.
+4. Interact with the available visuals and filters to explore the analysis.
 
----
+> The dashboard is provided as a Power BI Desktop project. An online Power BI Service link is not included.
 
 ## 📌 Project Highlights
 
